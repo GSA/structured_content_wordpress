@@ -1,0 +1,16 @@
+.multiple {
+    cursor: pointer;
+}
+
+.language {
+    cursor: pointer;
+}
+
+.required {
+    color: red;
+}
+
+.oasc_table tr td {
+    vertical-align: top;
+    margin: 15px;
+}
